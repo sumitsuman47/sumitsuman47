@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumitsuman47
+- 👋 Hi, I’m Sumit
 - 👀 I’m interested in Mobile application developement and some backend REST API creation
 - 🌱 I’m currently learning Android ith kotlin
 - 💞️ I’m looking to collaborate on swift and kotlin
