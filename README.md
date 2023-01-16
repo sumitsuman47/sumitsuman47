@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit
 - 👀 I’m interested in Mobile application developement and some backend REST API creation
-- 🌱 I’m currently learning Android ith kotlin
-- 💞️ I’m looking to collaborate on swift and kotlin
+- 🌱 I’m currently learning Android with kotlin
+- 💞️ I’m looking to collaborate on swift, swift ui and kotlin
 - 📫 How to reach me sumitcomnez@gmail.com
 
 <!---
